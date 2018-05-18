@@ -5,6 +5,7 @@ UI development experience for AEM developers without the need for a full-blown A
 ## I'M NOT READY YET!
 ## Implemented features
 * Render elements based on `data-sly-test` evaluations
+* Reuse/store tests evaluations such as `data-sly-test.isAuthor="${...}` and later `data-sly-test=${isAuthor}`
 * Evaluate expressions against JS objects
 
 ## In progress
